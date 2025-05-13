@@ -7,8 +7,8 @@ body{
 }
 
 h3{
-    border-bottom: 2px solid black; /* Puedes cambiar el color y grosor */
-    padding-bottom: 4px; /* Para que no esté tan pegada al texto */
+    border-bottom: 2px solid black; 
+    padding-bottom: 4px; 
 }
 
 #botoncito{
